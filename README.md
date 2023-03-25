@@ -1,0 +1,2 @@
+# jongkonding
+Latihan di jongkoding
