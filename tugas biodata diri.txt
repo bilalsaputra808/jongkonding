@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Biodata Diri</title>
+  </head>
+  <body>
+    <h1>Biodata Diri</h1>
+    <hr>
+    <h2>Data Pribadi</h2>
+    <ul>
+      <li>Nama: Bilal Saputra</li>
+      <li>Tanggal Lahir: 26 Juni 1998</li>
+      <li>Alamat: Dusun III Desa Banjarwangunan RT001/RW004 Kec.Mundu Kab.Cirebon</li>
+      <li>Email: bilalsaputra808@gmail.com</li>
+      <li>No. Telepon: 089509888537</li>
+    </ul>
+    <h2>Pendidikan</h2>
+    <ul>
+      <li>SMK AL Hidayah Kota Cirebon (2014-2017)</li>
+    </ul>
+    <h2>Pengalaman Kerja</h2>
+    <h2>Keterampilan</h2>
+    <ul>
+      <li>Bahasa Pemrograman:JavaScript</li>
+      <li>Framework: React</li>
+      <li>Basis Data: MySQL</li>
+    </ul>
+  </body>
+</html>
